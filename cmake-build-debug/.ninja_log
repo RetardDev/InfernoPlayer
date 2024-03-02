@@ -1,0 +1,17 @@
+# ninja log v5
+0	16	1709371182092036279	build.ninja	84cac4db59981d93
+0	410	1709281614075826559	CMakeFiles/InfernoPlayer.dir/MusicPlayer.cpp.o	4d41b25180ba0f64
+0	412	1709281614079826676	CMakeFiles/InfernoPlayer.dir/main.cpp.o	727f214674fb7bf7
+430	487	1709282287012170797	InfernoPlayer	52842a7494f68e06
+1	430	1709282286952168439	CMakeFiles/InfernoPlayer.dir/Button.cpp.o	38f8f28172a3e50
+1	303	1709378622308148915	CMakeFiles/InfernoPlayer.dir/FileDialog.cpp.o	1bef4a20774a73bf
+1	675	1709378622680144093	CMakeFiles/InfernoPlayer.dir/main.cpp.o	727f214674fb7bf7
+1	697	1709378622700143834	CMakeFiles/InfernoPlayer.dir/MusicPlayer.cpp.o	4d41b25180ba0f64
+697	765	1709378622768142953	InfernoPlayer	439f1b48574ad4a6
+1	618	1709378786598048324	CMakeFiles/InfernoPlayer.dir/MusicPlayer.cpp.o	4d41b25180ba0f64
+618	683	1709378786662047586	InfernoPlayer	439f1b48574ad4a6
+0	598	1709378832265564201	CMakeFiles/InfernoPlayer.dir/main.cpp.o	727f214674fb7bf7
+1	624	1709378832293563928	CMakeFiles/InfernoPlayer.dir/MusicPlayer.cpp.o	4d41b25180ba0f64
+624	690	1709378832357563304	InfernoPlayer	439f1b48574ad4a6
+1	699	1709388376180506805	CMakeFiles/InfernoPlayer.dir/MusicPlayer.cpp.o	4d41b25180ba0f64
+699	795	1709388376276505322	InfernoPlayer	439f1b48574ad4a6
